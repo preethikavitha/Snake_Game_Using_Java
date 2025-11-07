@@ -2,7 +2,6 @@
 
 A simple **command-line Snake Game** built using **pure Java**. Control the snake, eat food, and avoid collisions — all from your terminal!
 
----
 
 ## 🚀 How to Run
 
@@ -16,7 +15,7 @@ java Main
 **Controls:**
 `U` → Up `D` → Down `L` → Left `R` → Right
 
----
+
 
 ## 🧠 Features
 
@@ -25,7 +24,6 @@ java Main
 * Collision detection (walls & self)
 * Simple console visuals
 
----
 
 ## 💡 Future Enhancements
 
@@ -33,5 +31,5 @@ java Main
 * Dynamic grid size
 * Obstacles or GUI version (Swing/JavaFX)
 
----
+
 
